@@ -60,4 +60,8 @@ YourBot#0000 is online!
 
 ## License
 
-This project is free to use and modify.
+Copyright (c) 2026 TheDeveloperOfShadows.
+
+All rights reserved.
+
+Unauthorized copying, modification, distribution, or reuse of this project's source code is prohibited without the author's permission.
